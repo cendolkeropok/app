@@ -1,0 +1,10 @@
+<link href="https://fonts.googleapis.com/css?family=Arimo|Inconsolata|Margarine|Srisakdi|Titillium+Web|ZCOOL+XiaoWei" rel="stylesheet">
+
+
+
+font-family: 'Margarine', cursive;
+font-family: 'ZCOOL XiaoWei', serif;
+font-family: 'Arimo', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Srisakdi', cursive;
+font-family: 'Inconsolata', monospace;

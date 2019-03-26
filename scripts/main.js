@@ -32,5 +32,10 @@ if(!storedName) {
   setHeading(storedName);
 }
 
-let myButton = document.querySelector('button');
-myButton.onclick = setUserName;
+var button1 = document.getElementById("button1");
+button1.onclick = function() {
+  location = 'effects.html';
+}
+
+// let myButton = document.querySelector('button');
+// myButton.onclick = setUserName;
