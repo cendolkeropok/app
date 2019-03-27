@@ -1,1 +1,1 @@
-Open your brower: cendolkeropok.github.io/app
+Open your browser: cendolkeropok.github.io/app
